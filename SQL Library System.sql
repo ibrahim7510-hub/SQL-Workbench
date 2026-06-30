@@ -1,5 +1,3 @@
-CREATE DATABASE LibraryDB;
-USE LibraryDB;
 
 CREATE TABLE Books (
     book_id INT NOT NULL AUTO_INCREMENT,
